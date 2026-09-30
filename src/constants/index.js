@@ -1,0 +1,23 @@
+import { 
+    THEME,
+    SKILLS, 
+    NAV_LIST,
+    EDUCATION,
+    EXPERTIES,
+    PROJECTS_DATA, 
+    FOOTER_CONTENT,
+    ACCOMPLISHMENTS, 
+    MARQUEE_CONTENT,
+} from "./db";
+
+export { 
+    THEME,
+    SKILLS, 
+    NAV_LIST,
+    EDUCATION,
+    EXPERTIES, 
+    PROJECTS_DATA, 
+    FOOTER_CONTENT,
+    ACCOMPLISHMENTS, 
+    MARQUEE_CONTENT, 
+};
