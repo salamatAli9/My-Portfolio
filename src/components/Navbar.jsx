@@ -31,7 +31,7 @@ const Navbar = () => {
         e.preventDefault()
         setError("")
         setSuccess("")
-        emailjs.sendForm('service_6f87iwk', 'template_lbyvb9e', formRef.current, 'wLfuIi3pbcegxUyRQ')
+        emailjs.sendForm('service_0xw95hl', 'template_ge60spa', formRef.current, '_lddcARM4CvqfQuKi')
             .then((result) => {
                 console.log(result)
                 setName("")
